@@ -1,0 +1,79 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+body {
+
+  
+  background: -webkit-linear-gradient(-135deg, #003305, #025206);
+  background: -o-linear-gradient(-135deg, #003305, #025206);
+  background: -moz-linear-gradient(-135deg, #003305, #025206);
+  background: linear-gradient(-135deg, #003305, #025206);
+}
+
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form-label{
+	font-family: 'Montserrat', sans-serif, 600;
+}
+
+   #numero{
+	width: 150px !important;
+}
+
+
+
+.logo{
+	width: 50px;
+}
+
+
+.container-personalizado {
+
+  background: rgb(255, 255, 255);
+ 
+  padding: 25px 40px;
+  width: 1000px;
+  min-width: 800px;
+  
+}
+
+
+.nav-item{
+  width: 190px;
+  text-align: center;
+
+}
+
+a {
+  color: rgb(250, 242, 242);
+}
+
+
+.search-bar {
+  width: 300px;
+  float: right;
+
+}
+
+.search-h2 {
+  float: left;
+}
+
+.space-between {
+  width: 800px;
+}
+
+.tabela-personalizada{
+  max-width: 1000px;
+}
+
+
+.numero-mod{
+ text-align: center;
+}
+
