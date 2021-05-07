@@ -37,8 +37,10 @@ h2 {
   background: rgb(255, 255, 255);
  
   padding: 25px 40px;
-  width: 1000px;
-  min-width: 800px;
+  max-width: 959px;
+  width: 100%;
+  margin: 0 auto;
+  
   
 }
 
@@ -54,19 +56,9 @@ a {
 }
 
 
-.search-bar {
-  width: 300px;
-  float: right;
 
-}
 
-.search-h2 {
-  float: left;
-}
 
-.space-between {
-  width: 800px;
-}
 
 .tabela-personalizada{
   max-width: 1000px;
@@ -75,5 +67,12 @@ a {
 
 .numero-mod{
  text-align: center;
+}
+
+table {
+  display:block;
+  height : 200px;
+  overflow-y : scroll;
+  background-color: rgb(29, 26, 26);
 }
 
